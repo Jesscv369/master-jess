@@ -1,0 +1,1 @@
+<h1>Esta página ya no existe</h1>
