@@ -20,11 +20,12 @@
             <nav class="headerMenu">
                 <ul>
                     <li class="contenedorLogo"><a href="/" style="height: 49px;" class="nombreEmpresa">
-                        <img src="imagenes/logo.svg" height="50px" width="80px"  alt="logo negro">
+                        <img src="/imagenes/logo.svg" height="50px" width="80px"  alt="logo negro">
                     </a>
                     <h2>SEOAdvantage</h2>
                     <li><a class="listaheader" href="/">Home</a></li>
-                    <li><a class="listaheader" href="/contacto">Contacto</a></li>
+                    <li><a class="listaheader" href="/quienes-somos/">Quienes Somos</a></li>
+                    <li><a class="listaheader" href="/contacto/">Contacto</a></li>
                 </ul>
             </nav>
         </header>

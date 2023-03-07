@@ -4,7 +4,7 @@
                 <div class="bajadaFooter">
                     <div class="logoFooter">
                         <a href="/" style="height: 49px;">
-                            <img src="imagenes/logo.svg" height="50px" width="80px"  alt="logo negro">
+                            <img src="/imagenes/logo.svg" height="50px" width="80px"  alt="logo negro">
                         </a>
                         <h2>SEOAdvantage</h2>
                     </div>

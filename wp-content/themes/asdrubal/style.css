@@ -230,6 +230,29 @@ li.rrssUno {
 p.primerParrafo {
     padding-top: 28px;
 }
+.flexcenter {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 150px;
+}
+.post-card a {
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: flex-end;
+    background: #ecc6ec;
+    justify-content: space-around;
+    text-decoration: auto;
+}
+.post-card a .post-name {
+    background: #ac15ac;
+    color: white;
+    padding: 6px;
+    text-align: center;
+    width: 100%;
+    min-height: 2em;
+}
 
 /*Responsive
 @media all and (min-width: 400px) and (max-width: 800px){
